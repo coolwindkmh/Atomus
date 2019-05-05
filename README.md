@@ -2,7 +2,7 @@
 
 you can push q,w,e,r,a,s,d,f,→,←,↑,↓
 
-<img src="https://blogfiles.pstatic.net/MjAxOTA1MDVfMTI1/MDAxNTU3MDI5MjI4MTM3.np-wokvHI7QKC7IMATIZ1Q6NVQULdvup9XhWbWg1250g.w_umV-EQpXNL3EAJaPwAQKlh7_QnDsTiiooDPZJq4wgg.PNG.coolwindkmh/%EC%99%BC%EC%AA%BD%ED%9A%8C%EC%A0%84.png">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDVfMTI1/MDAxNTU3MDI5MjI4MTM3.np-wokvHI7QKC7IMATIZ1Q6NVQULdvup9XhWbWg1250g.w_umV-EQpXNL3EAJaPwAQKlh7_QnDsTiiooDPZJq4wgg.PNG.coolwindkmh/%EC%99%BC%EC%AA%BD%ED%9A%8C%EC%A0%84.png?type=w580">
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDVfMjk2/MDAxNTU3MDI5MjM1NDk3.o88mo7PSm7qd-u-Nk9UpBlSRKhnRQNsFAqvePWfT514g.D4KjRw790A3A6C29FQK_S76DZz67EjC1NmuSeWLJVS4g.PNG.coolwindkmh/%EC%83%89%EA%B9%94%EB%B3%84%EB%A1%9C%ED%95%A9%EC%B9%98%EA%B8%B01.png?type=w580">
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDVfNTgg/MDAxNTU3MDI5MjM5NzA5.Ei5LcksdIVyimDBdOjlMrxpeISsoRM87yl7f7EpjokUg.mYfsv3Ku8T5ZMbA4Dr6Qti1ZgpuVS_FOB2IWRSG6l3og.PNG.coolwindkmh/%EC%83%89%EA%B9%94%EB%B3%84%EB%A1%9C%ED%95%A9%EC%B9%98%EA%B8%B02.png?type=w580">
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDVfNjkg/MDAxNTU3MDI5MjQ1NTgy.KdFeDur1mfiB0oHgZgRhSncrLKQE-d4AeXfXMWurxnEg.VJd3d7M6DHgV7uOEpzTUldEIGmMkQ91LpVeoyaggdPog.PNG.coolwindkmh/%EC%96%87%EC%9D%80%EC%9D%80%ED%95%981.png?type=w580">
