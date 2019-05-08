@@ -1,8 +1,11 @@
 # Atomus
 
 [javeSE] 개인 프로젝트 (우주 표현해보기)</br>
-
-
+- ObjectManager를 정의하여 다수의 Atom 객체를 한번에 제어</br>
+- 다중 Thread를 이용한 객체 움직임 제어</br>
+- Point 클래스를 이용한 좌표 설정 및 이동</br>
+- Math random을 이용한 Atom 불규칙성 적용</br>
+- Math 클래스 다양한 함수를 이용하여 다양한 움직임 적용</br>
 
 you can push q,w,e,r,a,s,d,f,→,←,↑,↓</br>
 
